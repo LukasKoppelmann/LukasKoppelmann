@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @LukasKoppelmann<br>👀 I’m interested in Raspberry-Pi-Projects, Arduino, 3D printing, Bitcoin, Ethereum, Blockchain<br>🌱 I’m studying mechatronics<br>📝 I code in Swift, C#, C++, Java<br>📫 How to reach me - Twitter @LukasKoppelmann
+👋 Hi, I’m @LukasKoppelmann<br>👀 I’m interested in Raspberry-Pi-Projects, Arduino, 3D printing, Bitcoin, Ethereum, Blockchain<br>🌱 I’m studying Engineering and Business Administration<br>📝 I code in Swift, C#, C++, Java<br>📫 How to reach me - Twitter @LukasKoppelmann
 
 
 ## 🌐 Socials:
